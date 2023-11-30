@@ -1,4 +1,4 @@
-This repository is about the Application development and Deployment using AWS as Cloud Platform.<br />
+This Project is about the Application development and Deployment using AWS as Cloud Platform.<br />
 Here is the Algorithm for the Application Development.<br />
 
 
