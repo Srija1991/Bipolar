@@ -34,6 +34,10 @@ This is the pipeline code for CI/CD using Jenkins <br />
 
 ![image](https://github.com/Srija1991/Bipolar/assets/120301491/d2bdbec7-0ecd-4393-ac64-170bc814f19e)<br />
 
+The pipeline is configured to check jenkins file form repo and perform buidl operation.
+
+![image](https://github.com/Srija1991/Bipolar/assets/120301491/3f85bd92-8447-4c00-81de-0d370081c94b)
+
 
 
 
