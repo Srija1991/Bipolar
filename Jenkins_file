@@ -11,18 +11,18 @@ jdk 'java'
  git branch: 'master', url:'https://github.com/Srija1991/Bipolar.git'
  }
  }
- stage('Package the application'){
- steps{
- echo "***********************Packaging the application*********************************"
- sh 'mvn clean package'
- }
- }
- stage('Publish the Reports using HTML'){
- steps{
- echo "****************************************Publishing The HTML Reports****************************************"
- publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, keepAll: false, reportDir: '/var/lib/jenkins/workspace/Bipolar/target/surefire-reports', reportFiles: 'Helloworld.html', reportName: 'HTML Report', reportTitles: 'Reports', useWrapperFileDirectly: true])
- }
- }
+ //stage('Package the application'){
+ //steps{
+ //echo "***********************Packaging the application*********************************"
+ //sh 'mvn clean package'
+ //}
+ //}
+ //stage('Publish the Reports using HTML'){
+ //steps{
+ //echo "****************************************Publishing The HTML Reports****************************************"
+ //publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, keepAll: false, reportDir: '/var/lib/jenkins/workspace/Bipolar/target/surefire-reports', reportFiles: 'Helloworld.html', reportName: 'HTML Report', reportTitles: 'Reports', useWrapperFileDirectly: true])
+ //}
+ //}
  stage('Docker Image creation'){
  steps{
  echo "************************************Docker image is created**************************************"
