@@ -28,8 +28,13 @@ Step 4: Now CI/CD pipeline project is implemented using Jenkins.Following are th
 ![image](https://github.com/Srija1991/Bipolar/assets/120301491/69d9a6fd-f510-4272-b557-282d7e4e2c8f)
 ![image](https://github.com/Srija1991/Bipolar/assets/120301491/fddcf589-bd53-494e-b20c-c7657e0dee3a)<br />
 
-This is the pipeline code for CI/CD using Jenkins
+This is the pipeline code for CI/CD using Jenkins <br />
+
 ![image](https://github.com/Srija1991/Bipolar/assets/120301491/d7e175dd-00a8-4c04-aabd-c7dc61a8ce8d) <br />
+
+![image](https://github.com/Srija1991/Bipolar/assets/120301491/d2bdbec7-0ecd-4393-ac64-170bc814f19e)<br />
+
+
 
 
 
