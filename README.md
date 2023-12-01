@@ -21,9 +21,15 @@ Step 4: Now CI/CD pipeline project is implemented using Jenkins.Following are th
 ![image](https://github.com/Srija1991/Bipolar/assets/120301491/d36d3ec1-a514-4909-bc2c-e43bf381f920) <br />
 # Step 2: Now using AWS Cloud , EC2 is selected as Linux Machine.<br />
 
-![image](https://github.com/Srija1991/Bipolar/assets/120301491/d7d6d963-6614-4a53-8c1b-f8d0e5291b51) <br />
+![image](https://github.com/Srija1991/Bipolar/assets/120301491/6f2438e0-372d-47b3-a17e-f55056aa6862) <br />
 
 # Step 3 : This Linux virtual machine is installed with JAVA, MAVEN,Docker,Jenkins,Prometheus and Grafana.<br />
+
+![image](https://github.com/Srija1991/Bipolar/assets/120301491/69d9a6fd-f510-4272-b557-282d7e4e2c8f)
+![image](https://github.com/Srija1991/Bipolar/assets/120301491/fddcf589-bd53-494e-b20c-c7657e0dee3a)<br />
+
+This is the pipeline code for CI/CD using Jenkins
+![image](https://github.com/Srija1991/Bipolar/assets/120301491/d7e175dd-00a8-4c04-aabd-c7dc61a8ce8d) <br />
 
 
 
