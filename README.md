@@ -13,3 +13,9 @@ Step 4: Now CI/CD pipeline project is implemented using Jenkins.Following are th
             4. The application is deployed by running docker container.
             
   Step 5: The monitoring part is done using prometheus and Grafana. 
+
+
+#A Step 1: A java application is developed using Maven Project to Display "Hello World!" and the same is verified by configuring Tomcat sever and application is available on localhost:8080.
+![image](https://github.com/Srija1991/Bipolar/assets/120301491/9bb67f90-45c6-4523-b9ac-175404b8a3d2)<br />
+![image](https://github.com/Srija1991/Bipolar/assets/120301491/d36d3ec1-a514-4909-bc2c-e43bf381f920) <br />
+
